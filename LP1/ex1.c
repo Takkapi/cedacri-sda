@@ -2,6 +2,7 @@
 
 int main() {
     int salariu;
+    
     printf("Dati salariul anual in MDL: ");
     scanf("%d", &salariu);
 
